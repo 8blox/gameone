@@ -16,6 +16,7 @@ public class Test
         System.out.println( "Another method" );
     }
 
+    // a comment
     public static void yetAnotherMethod()
     {
         System.out.println( "Yet another method" );
