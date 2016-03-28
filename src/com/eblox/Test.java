@@ -11,14 +11,11 @@ public class Test
         System.out.println( "added another line");
     }
 
-    /**
-     * added method comment adn changed it
-     */
     public static void anotherMethod()
     {
         System.out.println( "Another method" );
     }
-    
+
     public static void yetAnotherMethod()
     {
         System.out.println( "Yet another method" );
