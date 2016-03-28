@@ -10,4 +10,9 @@ public class Test
         System.out.println( "hello world" );
         System.out.println( "added another line");
     }
+
+    public static void anotherMethod()
+    {
+        System.out.println( "Another method" );
+    }
 }
