@@ -10,13 +10,12 @@ public class Test
         System.out.println( "hello world" );
         System.out.println( "added another line");
     }
-    
+
     public static void anotherMethod()
     {
         System.out.println( "Another method" );
     }
 
-    // a comment changed
     public static void yetAnotherMethod()
     {
         System.out.println( "Yet another method" );
