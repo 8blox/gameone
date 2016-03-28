@@ -15,4 +15,9 @@ public class Test
     {
         System.out.println( "Another method" );
     }
+
+    public static void yetAnotherMethod()
+    {
+        System.out.println( "Yet another method" );
+    }
 }
