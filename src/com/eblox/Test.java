@@ -11,11 +11,15 @@ public class Test
         System.out.println( "added another line");
     }
 
+    /**
+     * added method comment
+     */
     public static void anotherMethod()
     {
         System.out.println( "Another method" );
     }
 
+    // a comment
     public static void yetAnotherMethod()
     {
         System.out.println( "Yet another method" );
