@@ -12,14 +12,13 @@ public class Test
     }
 
     /**
-     * added method comment
+     * added method comment adn changed it
      */
     public static void anotherMethod()
     {
         System.out.println( "Another method" );
     }
-
-    // a comment
+    
     public static void yetAnotherMethod()
     {
         System.out.println( "Yet another method" );
